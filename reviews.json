@@ -1,0 +1,124 @@
+{
+    "reviews": [
+    {
+    "professor": "Dr. Emily Johnson",
+    "subject": "Computer Science",
+    "stars": 4,
+    "review": "Dr. Johnson is an exceptional professor who truly cares about her students' learning. Her lectures are engaging and she does a great job of explaining complex topics. The workload is manageable, and she is always available to provide extra help during office hours."
+    },
+    {
+    "professor": "Prof. Michael Lee",
+    "subject": "Economics",
+    "stars": 3,
+    "review": "Prof. Lee's classes can be quite challenging, but he is knowledgeable and passionate about the subject matter. He expects a lot from his students, but is willing to provide guidance and support. The grading can be strict, but fair."
+    },
+    {
+    "professor": "Dr. Samantha Patel",
+    "subject": "Biology",
+    "stars": 5,
+    "review": "Dr. Patel is an incredible professor who truly cares about her students' success. Her lectures are well-organized and she takes the time to ensure everyone understands the material. The workload is heavy, but she provides plenty of resources and support to help students succeed."
+    },
+    {
+    "professor": "Prof. David Gonzalez",
+    "subject": "History",
+    "stars": 4,
+    "review": "Prof. Gonzalez is a engaging and knowledgeable professor who makes history come alive in the classroom. His lectures are interesting and he is always willing to answer questions and provide additional resources. The workload is manageable, and he is fair in his grading."
+    },
+    {
+    "professor": "Dr. Olivia Nguyen",
+    "subject": "Psychology",
+    "stars": 4,
+    "review": "Dr. Nguyen is a passionate and dedicated professor who really cares about her students. Her lectures are informative and she does a great job of relating the material to real-world applications. The workload is reasonable, and she is always available to provide additional support and guidance."
+    },
+    {
+    "professor": "Dr. Robert Sharma",
+    "subject": "Physics",
+    "stars": 3,
+    "review": "Dr. Sharma is a brilliant professor who is extremely knowledgeable in his field. His lectures can be challenging, but he is always willing to provide extra help and clarification. The workload is heavy, but the material is engaging and relevant."
+    },
+    {
+    "professor": "Prof. Lisa Chen",
+    "subject": "Marketing",
+    "stars": 4,
+    "review": "Prof. Chen is an engaging and enthusiastic professor who makes marketing concepts accessible and practical. Her classes are interactive and she encourages students to apply what they've learned. The workload is manageable, and she provides constructive feedback."
+    },
+    {
+    "professor": "Dr. Aisha Ali",
+    "subject": "Anthropology",
+    "stars": 5,
+    "review": "Dr. Ali is a truly inspiring professor who brings a passion and depth of knowledge to her courses. Her lectures are captivating, and she creates a comfortable environment for students to discuss and explore complex topics. The workload is challenging but rewarding."
+    },
+    {
+    "professor": "Prof. Juan Hernandez",
+    "subject": "Spanish",
+    "stars": 4,
+    "review": "Prof. Hernandez is an excellent language instructor who creates a fun and immersive learning environment. His classes are engaging, and he is patient and supportive in helping students develop their language skills. The workload is manageable and the material is relevant and practical."
+    },
+    {
+    "professor": "Dr. Mia Tanaka",
+    "subject": "Environmental Science",
+    "stars": 4,
+    "review": "Dr. Tanaka is a knowledgeable and dedicated professor who is passionate about environmental issues. Her lectures are informative and thought-provoking, and she encourages students to think critically about the material. The workload is reasonable, and she provides valuable feedback."
+    },
+    {
+    "professor": "Prof. Ahmed Khalil",
+    "subject": "Electrical Engineering",
+    "stars": 4,
+    "review": "Prof. Khalil is a brilliant and organized professor who excels at explaining complex engineering concepts. His lectures are engaging, and he is always available to provide additional support and clarification. The workload is challenging but manageable, and he is fair in his grading."
+    },
+    {
+    "professor": "Dr. Sophia Ramirez",
+    "subject": "Art History",
+    "stars": 5,
+    "review": "Dr. Ramirez is a truly exceptional professor who brings art history to life. Her lectures are captivating, and she has a remarkable ability to connect historical contexts with visual analysis. The workload is demanding, but the depth of knowledge and insights gained are invaluable."
+    },
+    {
+    "professor": "Prof. Thomas Nguyen",
+    "subject": "Accounting",
+    "stars": 3,
+    "review": "Prof. Nguyen is a knowledgeable professor who covers the material thoroughly. However, his lectures can be dry and he doesn't always make the content engaging. The workload is heavy, and the grading can be strict. Overall, the course is challenging but provides a solid foundation in accounting principles."
+    },
+    {
+    "professor": "Dr. Fatima Malik",
+    "subject": "Public Health",
+    "stars": 4,
+    "review": "Dr. Malik is a passionate and caring professor who is dedicated to her students' success. Her lectures are informative and she does a great job of connecting the course material to real-world public health issues. The workload is manageable, and she provides excellent support and resources."
+    },
+    {
+    "professor": "Prof. Liam O'Connor",
+    "subject": "Philosophy",
+    "stars": 4,
+    "review": "Prof. O'Connor is a thought-provoking and engaging professor who encourages students to think critically about philosophical concepts. His lectures are stimulating, and he creates a collaborative classroom environment. The workload is reasonable, and he provides constructive feedback."
+    },
+    {
+    "professor": "Dr. Isabelle Deschamps",
+    "subject": "French",
+    "stars": 5,
+    "review": "Dr. Deschamps is an exceptional language instructor who creates a immersive and supportive learning environment. Her classes are entirely in French, which can be challenging at first, but she is patient and provides ample opportunities to practice. The workload is manageable, and she is always willing to offer extra help."
+    },
+    {
+    "professor": "Prof. Jian Wu",
+    "subject": "Computer Programming",
+    "stars": 4,
+    "review": "Prof. Wu is a knowledgeable and experienced professor who is skilled at teaching programming concepts. His lectures are clear and he provides ample opportunities for hands-on practice. The workload is challenging but rewarding, and he is available to offer guidance and support."
+    },
+    {
+    "professor": "Dr. Amina Hussain",
+    "subject": "Sociology",
+    "stars": 4,
+    "review": "Dr. Hussain is a passionate and thought-provoking professor who brings a critical lens to sociological topics. Her lectures are engaging, and she encourages students to explore different perspectives. The workload is manageable, and she provides valuable feedback on assignments."
+    },
+    {
+    "professor": "Prof. Alejandro Suarez",
+    "subject": "Business Management",
+    "stars": 4,
+    "review": "Prof. Suarez is a knowledgeable and experienced professor who brings real-world insights to the classroom. His lectures are well-organized and he creates opportunities for interactive discussions. The workload is reasonable, and he is fair in his grading."
+    },
+    {
+    "professor": "Dr. Natalie Patel",
+    "subject": "Biochemistry",
+    "stars": 5,
+    "review": "Dr. Patel is an exceptional professor who is deeply knowledgeable and passionate about her subject. Her lectures are captivating, and she takes the time to ensure students understand complex concepts. The workload is challenging but rewarding, and she provides excellent support and resources."
+    }
+    ]
+    }
